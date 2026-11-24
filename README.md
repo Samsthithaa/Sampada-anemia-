@@ -2,7 +2,7 @@
 
 Interactive choropleth of anaemia prevalence (%) by state/UT across eight population groups, from the ICMR-NIN SAMPADA national survey (2023-25).
 
-**Live map:** [ https://samsthithaa.github.io/Sampada-anemia-/]
+**Live map:** https://samsthithaa.github.io/Sampada-anemia-/
 
 ## Data
 - Source: ICMR-National Institute of Nutrition. *Anaemia and Micronutrient Deficiencies Across the Life Course in India: Evidence from the SAMPADA National Survey (2023-2025)*. Hyderabad: ICMR-NIN; 2026. Annexure table.
@@ -23,7 +23,7 @@ Open `index.html` in a browser. It is a single self-contained file with no depen
 
 ## Licence and credits
 
-**Code:** MIT Licence (see the `LICENSE` file). Copyright (c) 2026 [ssrf-2025].
+**Code:** MIT Licence (see the `LICENSE` file). Copyright (c) 2026 Samsthithaa.
 
 **Data:** The anaemia estimates belong to their original sources and are not covered by the MIT Licence:
 - SAMPADA 2023-25 estimates: ICMR-National Institute of Nutrition, *Anaemia and Micronutrient Deficiencies Across the Life Course in India* (Hyderabad: ICMR-NIN; 2026).
